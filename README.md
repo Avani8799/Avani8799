@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avani8799
+- 👋 Hi, I’m Avani Nileshkumar Patel
 - 👀 I’m interested in Statistics and Data Analysis.
 - 🌱 I’m currently learning Biostatistics.
 - 💞️ I’m looking to collaborate on Various Data Analysis Project.
