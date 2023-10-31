@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Avani8799
+- 👀 I’m interested in Statistics and Data Analysis.
+- 🌱 I’m currently learning Biostatistics.
+- 💞️ I’m looking to collaborate on Various Data Analysis Project.
+- 📫 How to reach me --------> you can reach out to me here at GitHub 
